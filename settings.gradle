@@ -1,0 +1,2 @@
+rootProject.name = "Mad New E learning"
+include ':app'

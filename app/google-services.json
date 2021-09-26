@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349660820457",
+    "firebase_url": "https://mad-new-poject-default-rtdb.firebaseio.com",
+    "project_id": "mad-new-poject",
+    "storage_bucket": "mad-new-poject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349660820457:android:7e23fe13c3ee2fd0c75178",
+        "android_client_info": {
+          "package_name": "com.example.madnewelearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349660820457-d3alo9h5ktaid768ijma081nm9nk3h6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Ut1bLj-SMfRUGgJlcGuflFWo_aWtuKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349660820457-d3alo9h5ktaid768ijma081nm9nk3h6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
